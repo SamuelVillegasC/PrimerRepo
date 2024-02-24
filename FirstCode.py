@@ -1,4 +1,4 @@
-print ("SamuelVillegas");
-print("20");
-print("Morelia");
-print("Nataaa");
+print ("SamuelVillegas")
+print("20")
+print("Morelia")
+print("Azul")
